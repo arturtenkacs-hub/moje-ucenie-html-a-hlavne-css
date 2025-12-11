@@ -16,3 +16,14 @@ body {
 .page-nav .link:hover {
     color: rgb(0, 255, 255);
 }
+.hero-page-title {
+    color: rgb(70, 70, 201);
+}
+.hero-page-title:hover,.hero-page-title:focus,.hero-page-title:active {
+    color: blue;
+}
+.head-text-two{
+    font-family: Lavishly Yours;
+    font-size: larger;
+    
+}
